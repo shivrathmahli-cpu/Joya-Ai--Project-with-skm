@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI",
+  "description": "Zoya AI is a production-ready bilingual Android AI Assistant supporting voice chat, system integrations, screen analysis, OCR, and smart features in Hindi & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
